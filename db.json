@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alfredo",
+      "empresa": "Coderaf",
+      "email": "alfre.czta@gmail.com",
+      "telefono": "+5493856274094",
+      "notas": "sadsa",
+      "id": 1
+    }
+  ]
+}
